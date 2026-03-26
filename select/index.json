@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hibana (Cover)",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-26T09:56:15.256384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hibana (Cover)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_Hibana_(Cover)_Ado.lrc"
+    }
+  ]
+}
